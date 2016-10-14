@@ -1,0 +1,29 @@
+*{
+	/*La pagina en general se mostrar con un margen a ambos lados y con el tipo de letra Arial*/
+	padding: 0px;
+	margin: 0px;
+	box-sizing:border-box;
+	font-family: arial;
+	}
+
+.contenedorcitos img{
+	/*indicamos que la caja contenedorcitos se muestre 20% a la derecha y 20 a la izquierda, asi como 
+	muestre un margen de altura de 5% y su tamaño sera de un 60%*/
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+	width: 60%;
+}
+
+table{
+	border-radius: 2px;
+	margin-left: 16%;
+}
+
+.cronometro img{
+    width: 100px;
+    height: 80px;
+    margin-left: 91.9%;
+    margin-bottom: -4%;
+}
+
